@@ -18,4 +18,4 @@ Target Audience: Novice level people who having an interest in building their ow
 ## Repository Links walk through 
 
 * Portfolio 
-![Image of what the HTML looks like](‎⁨My disk⁩ ▸ ⁨Users⁩ ▸ ⁨ethanmaravilla⁩ ▸ ⁨Desktop⁩)
+![Image of what the HTML looks like](/Users/ethanmaravilla/Desktop/Screen Shot 2020-07-30 at 3.41.10 PM.png⁩)
