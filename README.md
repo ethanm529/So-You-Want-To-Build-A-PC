@@ -18,4 +18,9 @@ Target Audience: Novice level people who having an interest in building their ow
 
 ## What is HTML
 
-HTML stands for Hyper Text markup Language. It is the standard markup language for creating web pages by describing the structre of the web page. HTML consists of a series of [elements](https://www.w3schools.com/html/html_elements.asp) that tell the browser how to display the content. 
+HTML stands for Hyper Text markup Language. It is the standard markup language for creating web pages by describing the structre of a web page. HTML consists of a series of [elements](https://www.w3schools.com/html/html_elements.asp) that tell the browser how to display the content. 
+
+The first thing you are going to want to do is to download or open an [editor](https://www.w3schools.com/html/html_editors.asp). This is going to be the text envinronment in which you are going to creat the code for the website. There are many different environments, the recommendation is to read the description and see which on you like. Here are a few favorites:
+
+ * [Visual Studio](https://code.visualstudio.com/)
+ * [Xcode](https://developer.apple.com/xcode/)(Mac)
