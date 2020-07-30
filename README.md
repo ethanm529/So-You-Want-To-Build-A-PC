@@ -24,3 +24,4 @@ The first thing you are going to want to do is to download or open an [editor](h
 
  * [Visual Studio](https://code.visualstudio.com/)
  * [Xcode](https://developer.apple.com/xcode/)(Mac)
+ * [Brackets](http://brackets.io/)
