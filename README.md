@@ -8,3 +8,4 @@ Target Audience: Novice level people who having an interest in building their ow
 
 ## Useful videos to get you started
 * https://www.youtube.com/watch?v=UB1O30fR-EE
+* https://www.youtube.com/watch?v=PlxWf493en4
