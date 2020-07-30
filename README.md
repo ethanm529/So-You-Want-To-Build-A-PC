@@ -6,7 +6,10 @@ Summary: This repository is made for my 1600 Digital Systems project final. In t
 
 Target Audience: Novice level people who having an interest in building their own Website using HTML.
 
-## Useful videos to get you started
-* https://www.youtube.com/watch?v=UB1O30fR-EE
-* https://www.youtube.com/watch?v=PlxWf493en4
-* https://www.youtube.com/watch?v=dD2EISBDjWM&list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB
+## Articles and Schooling 
+* What is HTML: https://en.wikipedia.org/wiki/HTML
+
+## Videos to get you started
+* HTML Crash Course: https://www.youtube.com/watch?v=UB1O30fR-EE
+* Creating a simple website: https://www.youtube.com/watch?v=PlxWf493en4
+* 30 video HTML course for begginers: https://www.youtube.com/watch?v=dD2EISBDjWM&list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB
