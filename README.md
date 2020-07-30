@@ -12,7 +12,7 @@ Target Audience: Novice level people who having an interest in building their ow
 * [HTML Textbook](https://www.w3schools.com/html/)
 
 ## Videos to get you started
-* [HTML Crash Course] (https://www.youtube.com/watch?v=UB1O30fR-EE)
+* [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 * [Creating a simple website](https://www.youtube.com/watch?v=PlxWf493en4)
 * [30 video HTML course for begginers](https://www.youtube.com/watch?v=dD2EISBDjWM&list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
 
