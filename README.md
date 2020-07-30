@@ -15,7 +15,6 @@ Target Audience: Novice level people who having an interest in building their ow
 * Creating a simple website: https://www.youtube.com/watch?v=PlxWf493en4
 * 30 video HTML course for begginers: https://www.youtube.com/watch?v=dD2EISBDjWM&list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB
 
-## Repository Links walk through 
+## What is HTML
 
-* Portfolio 
-![Image of what the HTML looks like](/Users/ethanmaravilla/Desktop/Screen Shot 2020-07-30 at 3.41.10 PM.png⁩)
+HTML stands for Hyper Text markup Language. It is the standard markup language for creating web pages by describing the structre of the web page. HTML consists of a series of [elements](https://www.w3schools.com/html/html_elements.asp) that tell the browser how to display the content. 
