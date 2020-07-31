@@ -27,4 +27,8 @@ The first thing you are going to want to do is to choose an [editor](https://www
  * [Xcode](https://developer.apple.com/xcode/)(Mac)
  * [Brackets](http://brackets.io/)
  
- Next you are going to want to creat a .html file. These files do not need a server, but it must end with the **.html** extension. This file runs in a web browser and serves as the root/home page of a website.
+Next you are going to want to creat a **.html** file. These files do not need a server, but it must end with the .html extension. This file runs in a web browser and serves as the root/home page of a website.
+ 
+ ## Tag Syntax 
+ <tagname>content</tagname>
+ * Element names surrounded by angle brackets 
