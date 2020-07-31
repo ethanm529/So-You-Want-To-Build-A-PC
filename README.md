@@ -29,6 +29,8 @@ The first thing you are going to want to do is to choose an [editor](https://www
  
 Next you are going to want to creat a **.html** file. These files do not need a server, but it must end with the .html extension. This file runs in a web browser and serves as the root/home page of a website.
  
- ## Tag Syntax 
- <tagname> content </tagname>
- * Element names surrounded by angle brackets 
+ ## [HTML Elements and Tag Syntax](https://www.w3schools.com/html/html_elements.asp)
+ * Element names surrounded by angle brackets, it is defined by a start tag, some content, and end tag
+ * The HTML **element** is everything from the start tag to the end tag
+
+After Learning about HTML Elements, you should have enough knowledge to creat a Hello World. This is going to be a simple web page with a header of "Hello World". I have a attached a file to the repo of what it should look like. Try it first, and see how you did!
